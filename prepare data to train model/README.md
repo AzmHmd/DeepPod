@@ -1,4 +1,4 @@
-To prepare samples to be used for model development, run the specified files in order in MAtLab:
+To prepare samples to be used for model development, run the specified files in order in MatLab:
 
 - `annotationExtraction.m` : to extract the locations that are manualy selected using the Anootation-Toolbox.
 
