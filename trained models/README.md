@@ -1,5 +1,5 @@
 
-**Important files in model (densenet, lenet) repositories:
+**Important files in model (`densenet`, `lenet`) repositories:
 
 
 - train_val.txt: Model architecture used for the training phase
@@ -7,7 +7,7 @@
 - solver.prototxt: Containing optimisation approach and the respwctive hyper-parameters
 - snapshotXXX.caffemodel: snapshot of the learning process during different epochs
 -----------------------------------------------------------------------------------------------------
-**Important files in the `training and validation sets` foder:
+**Important files in the `training and validation sets` repository:
 
 - train_db folder: lmdb format of the training set
 - val_db folder: lmdb format of the validation set
