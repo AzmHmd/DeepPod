@@ -1,0 +1,10 @@
+2018-03-08 17:30:48 [DEBUG] 141 total lines in file
+2018-03-08 17:30:48 [INFO ] 141 valid lines in file
+2018-03-08 17:30:48 [DEBUG] Category 0 has 41 images.
+2018-03-08 17:30:48 [DEBUG] Category 1 has 19 images.
+2018-03-08 17:30:48 [DEBUG] Category 2 has 40 images.
+2018-03-08 17:30:48 [DEBUG] Category 3 has 41 images.
+2018-03-08 17:30:50 [DEBUG] Processed 0/141
+2018-03-08 17:30:52 [DEBUG] 141 images loaded
+2018-03-08 17:30:52 [INFO ] 141 images written to database
+2018-03-08 17:30:52 [INFO ] Database created after 3 seconds.
