@@ -8,7 +8,7 @@ This repository contains the following folders:
 
 - **prepare data to train model** : To prepare 3 datasets (training, validation and testing) used for developing the classification model.
 
-- **trained models**: Two convolutional neural networks were trained and the trained weights can can be used in the Caffe platform for doing classification.
+- **trained models**: Two convolutional neural networks were trained and the trained weights can be used in the Caffe platform for doing classification.
 
 - **silique counting** : reconstructs the plant image to detect and count the silique numbers on the whole plant image.
 
