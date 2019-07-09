@@ -5,7 +5,7 @@
 - train_val.txt: Model architecture used for the training phase
 - deploy.txt: Model architecture used for the testing phase
 - solver.prototxt: Containing optimisation approach and the respective hyper-parameters
-- snapshotXXX.caffemodel: snapshot of the learning process during different epochs
+- snapshotXXX.caffemodel: snapshot of the model at the end of different epoch during training, in protocol buffer format. The available caffemodel file stores the trained parameters, which can be used to classify image patches (of size 32x32) into different plant parts together with the model architecture file (deploy.txt) within CAFFE. 
 -----------------------------------------------------------------------------------------------------
 **Important files in the `training and validation sets` repository:
 
