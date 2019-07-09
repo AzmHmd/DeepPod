@@ -32,4 +32,5 @@ This repository contains the following folders:
 - To install CAFFE and DIGITS, follow the link:
 
 https://www.nvidia.co.uk/object/caffe-installation-uk.html 
+
 https://docs.nvidia.com/deeplearning/digits/digits-installation/index.html
