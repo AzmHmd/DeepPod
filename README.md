@@ -22,3 +22,14 @@ This repository contains the following folders:
 - To count the number of siliques, and extract several quantitative phenotype information refer to **silique counting**.
 
 --------------------------------------------------------------------------------------------------
+
+**Requirements**
+
+- MATLAB v9.3??, Python 2.7, CAFFE 1.0.0-rc3.
+
+- Other requirements: CUDA version 8.0, CuDNN v5.1, BLAS: atlas, DIGITS version5.1-dev.
+
+- To install CAFFE and DIGITS, follow the link:
+
+https://www.nvidia.co.uk/object/caffe-installation-uk.html 
+https://docs.nvidia.com/deeplearning/digits/digits-installation/index.html
