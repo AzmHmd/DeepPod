@@ -1,5 +1,5 @@
 # Deep-Plant-Phenotyping: DeepPod
-The proposed pipeline in [our paper](https://www.overleaf.com/read/hrnxjzcvnvdm) is based on a deep convolutional network to classify Arabidopsis thaliana plant parts into 4 classes and use patch based classification approach (through sliding window method) to detect and  count fruits of this plant.
+The proposed pipeline in our paper is based on a deep convolutional network to classify Arabidopsis thaliana plant parts into 4 classes and use patch based classification approach (through sliding window method) to detect and  count fruits of this plant.
 
 
 This repository contains the following folders:
